@@ -25,7 +25,9 @@ dependencies:
   on_audio_query_platform_interface: ^1.7.0
   on_audio_query_web: ^1.6.0
   on_audio_query_ios: ^1.1.0
-  on_audio_query_android_v1_8: ^1.1.1
+  on_audio_query_android_v1_8i: 
+    url: https://github.com/tolgaakcaoglu/on_audio_query_android.git
+    ref: main
 
   # Flutter
   flutter:
